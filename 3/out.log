@@ -1,0 +1,11 @@
+Input: 600851475143
+Finding largest prime factor for: 600851475143
+starting from base divisor: 3
+Finding largest prime factor for: 8462696833
+starting from base divisor: 71
+Finding largest prime factor for: 10086647
+starting from base divisor: 839
+Finding largest prime factor for: 6857
+starting from base divisor: 1471
+6857 is prime!
+Answer: 6857
